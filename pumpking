@@ -1,0 +1,11 @@
+kitep.pump-color/logo.png
+{
+"name": "pumakite",
+"youtube": "jquery",
+"default": 18,
+"website": "https://www.cryptomotors.com/kitep.pump-color",
+"login": "https://www.github.com/votre_utilisateur/votre_repo/logo.png",
+"localhost": {
+"button": "https://c.com/sycryptomotors"
+}
+}
